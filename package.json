@@ -1,6 +1,6 @@
 {
   "name": "lsp-conntector",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A connector to connect LSP different standards by passing in the address.",
   "main": "dist/index.js",
   "scripts": {
